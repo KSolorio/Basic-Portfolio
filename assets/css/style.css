@@ -175,6 +175,17 @@ h3, h2 {
   margin-top: 10px;
   margin-right: 25px;
 }
+
+#psychic {
+  width: 450px;
+  height: 205px;
+}
+
+.links {
+  text-decoration: none;
+  color: #fff;
+}
+
 /* sidebar */
 .sidebar {
   background: #fff;
