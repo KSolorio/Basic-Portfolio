@@ -1,5 +1,8 @@
 # Basic-Portfolio
 
-Bienvenidos! Welcome!
+Bienvenidos! 
+Welcome!
+
+Glad you're here
 
 https://ksolorio.github.io/Basic-Portfolio/
